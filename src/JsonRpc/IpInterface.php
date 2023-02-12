@@ -4,7 +4,7 @@
  * website:http://www.hu-rong.com
  */
 
-namespace Huron241\ComposerDemo\JsonRpc;
+namespace Hurong\ComposerDemo\JsonRpc;
 
 interface IpInterface
 {

@@ -4,7 +4,7 @@
  * website:http://www.hu-rong.com
  */
 
-namespace Huron241\ComposerDemo\first;
+namespace Hurong\ComposerDemo\first;
 class First
 {
     public function test(): string

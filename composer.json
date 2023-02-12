@@ -1,10 +1,10 @@
 {
-  "name": "huron241/composer-demo",
+  "name": "hurong/composer-demo",
   "description": "composer demo",
   "type": "project",
   "autoload": {
     "psr-4": {
-      "Huron241\\ComposerDemo\\": "src/"
+      "Hurong\\ComposerDemo\\": "src/"
     }
   },
   "authors": [

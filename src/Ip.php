@@ -4,7 +4,7 @@
  * website:http://www.hu-rong.com
  */
 
-namespace Huron241\ComposerDemo;
+namespace Hurong\ComposerDemo;
 
 class Ip
 {
