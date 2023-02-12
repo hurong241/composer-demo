@@ -10,5 +10,5 @@ use Hyperf\HttpServer\Contract\RequestInterface;
 
 interface IpInterface
 {
-    public function ip(RequestInterface $request): string;
+    public function ip(): string;
 }
