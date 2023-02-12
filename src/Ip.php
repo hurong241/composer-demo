@@ -6,10 +6,10 @@
 
 namespace Huron241\ComposerDemo;
 
-class Demo
+class Ip
 {
-    public function test(): string
+    public function ip(): string
     {
-        return __CLASS__ . '::' . __FUNCTION__;
+        return '服务器ip:' . $_SERVER['HTTP_X_̲FORWARDER_FOR'];
     }
 }

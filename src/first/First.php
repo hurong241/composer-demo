@@ -9,6 +9,6 @@ class First
 {
     public function test(): string
     {
-        return __CLASS__ . '::' . __FUNCTION__;
+        return __DIR__ . '/' . __CLASS__ . '::' . __FUNCTION__;
     }
 }
